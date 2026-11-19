@@ -1,0 +1,24 @@
+{
+  "rows": 30,
+  "columns": 2,
+  "missing_values": 0,
+  "duplicate_rows": 0,
+  "experience_min": 1.1,
+  "experience_max": 10.5,
+  "salary_min": 37731.0,
+  "salary_max": 122391.0,
+  "salary_mean": 76003.0,
+  "correlation": 0.9782,
+  "train_size": 24,
+  "test_size": 6,
+  "model": {
+    "intercept": 25321.58,
+    "coefficient_experience": 9423.82,
+    "r2_test": 0.9024,
+    "mae_test": 6286.45,
+    "rmse_test": 7059.04,
+    "cv_r2_mean": 0.9224,
+    "cv_mae_mean": 4726.55,
+    "cv_rmse_mean": 5694.82
+  }
+}

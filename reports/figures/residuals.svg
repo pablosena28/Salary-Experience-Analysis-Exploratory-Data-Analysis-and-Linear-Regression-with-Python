@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="560" viewBox="0 0 850 560">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="36" y="46" font-size="28" font-weight="700" fill="#172033">Resíduos do modelo — conjunto de teste</text>
+  <line x1="90" y1="490" x2="810" y2="490" stroke="#cbd5e1"/>
+  <line x1="90" y1="80" x2="90" y2="490" stroke="#cbd5e1"/>
+  <line x1="90" y1="369.4117647058823" x2="810" y2="369.4117647058823" stroke="#9c6b5b" stroke-width="2"/>
+  <circle cx="766.7" cy="445.5" r="6" fill="#315b7d"/><circle cx="311.1" cy="455.3" r="6" fill="#315b7d"/><circle cx="631.0" cy="98.9" r="6" fill="#315b7d"/><circle cx="349.9" cy="180.8" r="6" fill="#315b7d"/><circle cx="146.3" cy="153.1" r="6" fill="#315b7d"/><circle cx="194.8" cy="441.8" r="6" fill="#315b7d"/>
+  <text x="450" y="540" text-anchor="middle" font-size="14" fill="#475569">Salário previsto</text>
+  <text x="24" y="285" transform="rotate(-90 24 285)" text-anchor="middle" font-size="14" fill="#475569">Resíduo (real - previsto)</text>
+  </svg>
